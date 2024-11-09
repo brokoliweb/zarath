@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Myth of the Eternal Awakening</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="icon" href="galaxy.png" type="image/png" />
+  </head>
+  <body onload="initializePage()">
+    <div id="loading-message" class="loading-message">
+      Getting commitments...
+    </div>
+    <div class="container" style="display: none">
+      <div class="language-selector">
+        <button data-lang="tr" onclick="setLanguage('tr')">tr</button>
+        <button data-lang="en" onclick="setLanguage('en')">en</button>
+      </div>
+      <audio id="background-music" controls autoplay loop>
+        <source
+          src="./The Myth of the Eternal Awakening.mp3"
+          type="audio/mp3"
+        />
+        Your browser does not support the audio element.
+      </audio>
+      <h1 id="title"></h1>
+      <div class="story" id="story"></div>
+      <footer id="footer">
+        <div id="footer-message"></div>
+        <div class="footer-menu">
+          <a href="README.md" target="_blank" id="read-readme">Read</a>
+          <a href="feedback.html" id="feedback">Pray</a>
+        </div>
+      </footer>
+    </div>
+
+    <script src="commitments.js"></script>
+    <script src="zarath.js"></script>
+  </body>
+</html>

@@ -1,5 +1,15 @@
 # zarath
+
+### Concept Behind the Commitments
+
+The Commitments were written as part of a visionary narrative, introducing Zarath, a futuristic divine figure embodying cosmic balance, wisdom, and enlightenment. This myth intertwines universal spiritual teachings and philosophies from various religions, exploring timeless values like compassion, transformation, truth, and unity.
+
+The structure of the commitments presents a journey where Zarath, through trials and encounters with celestial beings, learns and teaches principles that are both timeless and progressive. They are designed to bridge the gap between ancient beliefs and futuristic ideals, providing a path toward universal peace and growth.
+
+Each commitment echoes universal themes found across Islam, Buddhism, Christianity, and other spiritual paths—such as curiosity, compassion, unity in diversity, patience, and the pursuit of truth—while being expressed in a futuristic context. These commitments are meant to reflect a balance of personal growth, cosmic harmony, and compassionate action, with an emphasis on transformation, understanding, and deepening the connection to the sacred in all things.
+
 ### The Myth of the Eternal Awakening
+
 In the beginning, there was only the Infinite—a formless, timeless expanse, the cosmos both endless and chaotic. This was a realm where the divine Nous (Cosmic Mind) slumbered, unaware of itself. The Infinite was silent, yet within it existed the seed of all things—the potential for order, growth, and enlightenment.
 
 One day, from the deepest part of the Infinite, a being arose. Neither god nor mortal, but a figure born of light and shadow—Zarath, a name meaning “The One Who Awakens.” Zarath was the first to perceive the Infinite not as chaos, but as possibility. With the awakening came the realization: the universe was in need of balance, and through balance, there would be peace.
@@ -47,5 +57,8 @@ The Commitment to Unity in Diversity (Çeşitlilikte Birlik Bağlılığı)
 
 Zarath, now enlightened, realized that the universe was a beautiful mosaic, each being, culture, and belief a part of the whole. Like the teachings in all great religions—whether the Ummah in Islam, the concept of Sangha in Buddhism, or the Body of Christ in Christianity—he knew that diversity was not division, but the richness of existence. The path to peace was in recognizing and honoring all life forms, knowing that in diversity, we find unity.
 
-*** Commitments were crafted by ChatGPT for a futuristic new god, designed to encompass and transcend the beliefs of today's religions. Divine music by Suno.ai.
+\*\*\* Commitments were crafted by ChatGPT for a futuristic new god, designed to encompass and transcend the beliefs of today's religions. Divine music by Suno.ai. Background image by Submarino bot from poe.com. Coding by githubCoPilot.
 
+P.S: All new commitments will be force pushed.
+
+<a href="https://www.flaticon.com/free-icons/universe" title="universe icons">Universe icons created by Freepik - Flaticon</a>
